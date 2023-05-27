@@ -8,6 +8,7 @@ L: RIGHT
 ## Installation
 run: 
 > go mod tidy 
-to install dependecies
-then simply:
-> go run snake.go
+to install dependecies 
+
+then simply: 
+> go run snake.go 
